@@ -11,12 +11,12 @@ Live demos:
 - [AI Tour Guide](https://tour-guide-ai.netlify.app)
 - [Place Detection](https://ruhulaminparvez-deploy-test-tour-guide-landmark-detect-sy2fnh.streamlit.app)
 
-Authors:
-- Ruhul Amin Parvez and Khandoker Md. Mashiur Rahman <br>
-Supervised by:
-- Dr. Sheak Rashed Haider Noori
-- Associate Professor & Associate Head
-- Department of CSE, Daffodil International University
+**Authors**  
+Ruhul Amin Parvez · Khandoker Md. Mashiur Rahman
+
+**Faculty Supervisor**  
+Dr. Sheak Rashed Haider Noori  
+Associate Professor & Associate Head, Department of CSE, Daffodil International University
 
 ## Technologies
 - Python 3.9+, Streamlit, TensorFlow/Keras, OpenCV (landmark detection prototypes)
