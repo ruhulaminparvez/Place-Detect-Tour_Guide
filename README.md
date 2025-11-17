@@ -8,8 +8,8 @@ This repository houses an AI assistant that detects notable landmarks from user 
 - A React-based web interface (`Tour Guide (Web App)`) that surfaces detections and guidance information
 
 Live demos:
-- Website – AI Tour Guide: https://tour-guide-ai.netlify.app/
-- Website – Place Detection: https://ruhulaminparvez-deploy-test-tour-guide-landmark-detect-sy2fnh.streamlit.app/
+- Website – AI Tour Guide: https://tour-guide-ai.netlify.app
+- Website – Place Detection: https://ruhulaminparvez-deploy-test-tour-guide-landmark-detect-sy2fnh.streamlit.app
 
 Created by: Ruhul Amin Parvez and Khandoker Md. Mashiur Rahman  
 Supervised by: Dr. Sheak Rashed Haider Noori, Associate Professor & Associate Head, Department of CSE, Daffodil International University
