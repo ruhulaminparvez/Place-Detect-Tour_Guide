@@ -7,15 +7,14 @@ This repository houses an AI assistant that detects notable landmarks from user 
 - Computer-vision pipelines for landmark detection (multiple iterations under `Detect Landmark v1` and `Detect Landmark v2`)
 - A React-based web interface (`Tour Guide (Web App)`) that surfaces detections and guidance information
 
-Live demos:
-- [AI Tour Guide](https://tour-guide-ai.netlify.app)
-- [Place Detection](https://ruhulaminparvez-deploy-test-tour-guide-landmark-detect-sy2fnh.streamlit.app)
+Live demo:
+- [AI Tour Guide](https://ai-tour-guide-web.vercel.app)
 
-**Authors**  
+**Authors**
 Ruhul Amin Parvez · Khandoker Md. Mashiur Rahman
 
-**Faculty Supervisor**  
-Dr. Sheak Rashed Haider Noori  
+**Faculty Supervisor**
+Dr. Sheak Rashed Haider Noori
 Associate Professor & Associate Head, Department of CSE, Daffodil International University
 
 ## Technologies
@@ -53,6 +52,13 @@ Associate Professor & Associate Head, Department of CSE, Daffodil International 
    - `cd "Tour Guide (Web App)"`
    - `npm install`
    - `npm start`
+
+## Sample Output
+Below are screenshots from the `Demo Image` directory that illustrate how the AI tour guide surfaces landmark insights:
+
+![Sample 1 – Search place overview](Demo%20Image/one.png)
+![Sample 2 – Detected restaurants](Demo%20Image/two.png)
+![Sample 3 – Detected attractions](Demo%20Image/three.png)
 
 ## Contributing
 Feel free to open issues or submit pull requests for enhancements, bug fixes, or documentation improvements. Please include screenshots or logs when reporting UI/UX or inference problems.
